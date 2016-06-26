@@ -1,0 +1,25 @@
+{
+  "name": "lsago",
+  "version": "1.0.0",
+  "description": "A command that transforms `ls` output to show how long ago files were created.",
+  "main": "index.js",
+  "repository": "karmadude/lsago",
+  "bin": {
+    "lsago": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ls",
+    "files",
+    "ago"
+  ],
+  "author": "Liji Jinaraj <karmadude@gmail.com> (http://liji.jinaraj.com)",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.13.0",
+    "split": "^1.0.0",
+    "through2": "^2.0.1"
+  }
+}
