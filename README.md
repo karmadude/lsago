@@ -1,4 +1,4 @@
-# lsago
+# lsago - List how long ago files changed
 
 A command that takes the date and file name columns from the `ls -lT` command and outputs the file name and a human friendly text of how long ago the file was changed.
 

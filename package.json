@@ -1,7 +1,7 @@
 {
   "name": "lsago",
-  "version": "1.0.0",
-  "description": "A command that transforms `ls` output to show how long ago files were created.",
+  "version": "1.0.1",
+  "description": "List how long ago files changed.",
   "main": "index.js",
   "repository": "karmadude/lsago",
   "bin": {
